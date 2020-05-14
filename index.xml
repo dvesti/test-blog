@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Наш тестовый блог</title>
+    <link>/</link>
+    <description>Recent content on Наш тестовый блог</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Thu, 14 May 2020 22:54:59 +0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Первая статья</title>
+      <link>/post/first-post/</link>
+      <pubDate>Thu, 14 May 2020 22:58:01 +0300</pubDate>
+      
+      <guid>/post/first-post/</guid>
+      <description>Веб-разработка — процесс создания веб-сайта или веб-приложения. Основными этапами процесса являются веб-дизайн, вёрстка страниц, программирование для веба на стороне клиента и сервера, а также конфигурирование веб-сервера.</description>
+    </item>
+    
+    <item>
+      <title>Обо мне</title>
+      <link>/about/</link>
+      <pubDate>Thu, 14 May 2020 22:54:59 +0300</pubDate>
+      
+      <guid>/about/</guid>
+      <description>И так, кто я такой Веб-специалист — универсальный специалист, соединяющий в себе несколько профессий. Основные задачи - разработка, оптимизация, сопровождение и контроль над качеством в различных веб-процессах. К ним относятся следующие специалисты:
+ веб-дизайнер веб-разработчик веб-мастер веб-верстальщик веб-архитектор  </description>
+    </item>
+    
+  </channel>
+</rss>
