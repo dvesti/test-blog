@@ -1,0 +1,33 @@
+baseURL = "/"
+defaultContentLanguage = "ru"
+languageCode = "ru-ru"
+title = "Мой New Hugo Site"
+theme = "terminal"
+paginate = 5
+
+[params]
+  contentTypeName = "post"
+  themeColor = "orange"
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = false
+
+[languages]
+  [languages.ru]
+    title = "Наш тестовый блог"
+    subtitle = "Вот так и сделали блог на Hugo"
+    keywords = ""
+    copyright = ""
+    menuMore = "Показать больше"
+    readMore = "Подробнее"
+    readOtherPosts = "Просмотреть другие статьи"
+
+    [languages.ru.params.logo]
+        logoText = "Наш тестовый блог"
+        logoHomeLink = "/"
+
+    [languages.ru.menu]
+        [[languages.ru.menu.main]]
+            identifier = "about"
+            name = "Обо мне"
+            url = "/about"
